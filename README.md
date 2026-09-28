@@ -1,5 +1,38 @@
-# 💫 About Me:
-I'm a 3rd year B.Tech IT student and a Full Stack Developer (MERN stack) with 3 months of internship experience. I'm currently diving deep into System Design — learning and practically implementing scalable architectures.<br>I also actively practice Data Structures & Algorithms in C++ and enjoy solving challenging problems.<br>🔭 Building full-stack projects & exploring system design<br>💻 Stack — MERN | C++ | System Design<br>🎯 Open to SDE Internship Opportunities<br>📫 Reach me at — choudharysneha409@gmail.com<br>
+# Hi, I'm Sneha Choudhary 👋
+
+Final-year **B.Tech IT** student at BPSMV and a **Full-Stack Developer (MERN)** with hands-on internship experience. I build backend-heavy full-stack systems and GenAI applications, and I practice **Data Structures & Algorithms in C++** regularly. Former Head of a college Tech Club, where I led teams and organized 4 technical events, hackathons, and ideathons with 300+ attendees.
+
+## 🚀 What I'm working on
+
+- 🔭 **Low-Latency Stock Exchange & Matching Engine** in C++20 (price-time priority, custom memory pools, SPSC queues), ongoing
+- 🤖 **Multi-Agent AI Platform** with LangGraph, RAG, and Qdrant
+- 🏦 **Bank Transaction & Ledger System** with idempotent transactions and a ledger-based balance model
+- 📐 Studying **system design** and scalable backend architectures
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, JavaScript
+**Frontend:** React.js, Redux Toolkit
+**Backend:** Node.js, Express.js, REST APIs, JWT
+**Databases:** MongoDB, Redis, Qdrant
+**GenAI:** LangChain, LangGraph, RAG
+**Tools:** Git, Docker, AWS, Postman, CMake
+
+## 📌 Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Bank Transaction & Ledger System** | Banking backend with JWT auth, idempotency, and MongoDB aggregation-based ledger balances | [Repo](https://github.com/snehchoudhary/Bank-Transaction-Ledger-System) |
+| **Low-Latency Matching Engine** | C++20 limit order book with price-time priority and low-latency memory design | [Repo](https://github.com/snehchoudhary/YOUR-REPO) |
+| **Multi-Agent AI Platform** | LangGraph agents with a RAG pipeline for document intelligence | [Repo](https://github.com/snehchoudhary/YOUR-REPO) |
+
+## 🎯 Open to
+
+**SDE roles** (full-time and internships), especially backend, full-stack, and GenAI work.
+
+## 📫 Connect with me
+
+📧 [choudharysneha409@gmail.com](mailto:choudharysneha409@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sneha-choudhary-58a5552a8/)
 
 
 ## 🌐 Socials:
