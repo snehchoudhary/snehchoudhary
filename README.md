@@ -23,8 +23,8 @@ Final-year **B.Tech IT** student at BPSMV and a **Full-Stack Developer (MERN)** 
 | Project | Description | Links |
 |---|---|---|
 | **Bank Transaction & Ledger System** | Banking backend with JWT auth, idempotency, and MongoDB aggregation-based ledger balances | [Repo](https://github.com/snehchoudhary/Bank-Transaction-Ledger-System) |
-| **Low-Latency Matching Engine** | C++20 limit order book with price-time priority and low-latency memory design | [Repo](https://github.com/snehchoudhary/YOUR-REPO) |
-| **Multi-Agent AI Platform** | LangGraph agents with a RAG pipeline for document intelligence | [Repo](https://github.com/snehchoudhary/YOUR-REPO) |
+| **Low-Latency Matching Engine** | C++20 limit order book with price-time priority and low-latency memory design | [Repo](https://github.com/snehchoudhary/low-latency-stock-exchange) |
+| **Multi-Agent AI Platform** | LangGraph agents with a RAG pipeline for document intelligence | [Repo](https://github.com/snehchoudhary/multi-agent-ai-platform) |
 
 ## 🎯 Open to
 
